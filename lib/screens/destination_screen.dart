@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_travel_ui/models/activity_model.dart';
-import 'package:flutter_travel_ui/models/destination_model.dart';
+import 'package:flutter_travel_ui/models/Destination_model.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+import 'package:travel_ui/models/Destination_model.dart';
 
 class DestinationScreen extends StatefulWidget {
   final Destination destination;
